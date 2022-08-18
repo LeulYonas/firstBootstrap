@@ -1,0 +1,22 @@
+body {
+    background-color:#ead6a4;
+}
+
+.navbar {
+    background-color: #8c7658;
+    margin-top: 50px;  
+    display: flex;
+    justify-content: space-between
+}
+
+ul {
+    background-color: aquamarine;
+ }
+
+
+
+
+
+
+
+
